@@ -1,0 +1,15 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Custom Scripts/GameGUI.cs">
+    <Files>
+      <File FileName="Assets/Standard Assets/Scripts/Camera Scripts/SmoothFollow.js" Line="49" Column="52" />
+      <File FileName="Assets/Custom Scripts/GuiPosition.cs" Line="24" Column="74" />
+      <File FileName="Assets/Custom Scripts/InputHandler.cs" Line="72" Column="33" />
+      <File FileName="Assets/Custom Scripts/GameGUI.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
